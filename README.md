@@ -13,10 +13,9 @@ A simple and intuitive Expense Tracker application to help you manage your daily
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript  
-  *(or React.js, if applicable)*  
-- **Backend**: Python / Node.js / PHP *(if applicable)*  
-- **Database**: LocalStorage / MongoDB / Firebase *(if used)*
+- **Frontend**: React.js, HTML, CSS, JavaScript   
+- **Backend**: Node.js  
+- **Database**: Firebase 
 
 Link:
 
